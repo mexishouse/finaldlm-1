@@ -141,4 +141,5 @@ Profile photos are stored under `DATA_DIR/profile_uploads` and served through an
   Only the main admin can open it. Passwords are kept as an **encrypted copy** (needs `cryptography`, key derived from `SECRET_KEY` / `secret.key` - keep it safe and do not change it).
   Employees who already existed get their copy saved at their next login or password change.
 #   f i n a l d l m  
+ #   f i n a l d l m  
  
